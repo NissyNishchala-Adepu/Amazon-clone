@@ -1,1 +1,2 @@
-# Amazon-clone
+# Amazon-clone using HTML and CSS
+Fun challenge: building an Amazon Clone using HTML and CSS! It was a fantastic way to put my web development skills to test and solidify my understanding of these languages. This project allowed me to apply my knowledge in a practical way, replicating the layout, design, and functionality of a real-world website. The process of coding and seeing the project come together was incredibly satisfying, and I'm pround of the results. This experience has solidified my understanding of web development fundamentals and fueled my passion to continue learning and building even more ambitious projects in the future.
